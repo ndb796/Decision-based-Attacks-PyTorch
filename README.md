@@ -11,4 +11,4 @@
 #### <b>(CelebA HQ Dataset) Untargeted Boundary Attack for Gender Classification</b>
 
 * [Basic attack source code](\(CelebA\)_Untargeted_Boundary_Attack_for_Gender_Classification.ipynb)
-* [Basic attack source code (file-based decision)](\CelebA\)_Untargeted_Boundary_Attack_for_Gender_Classification_(File_based_Decision).ipynb)
+* [Basic attack source code (file-based decision)](\(CelebA\)_Untargeted_Boundary_Attack_for_Gender_Classification_(File_based_Decision).ipynb)
