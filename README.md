@@ -42,3 +42,11 @@
 ### Hard Objective (Determined Targets)
 
 * [Generate Determined Targets](/Generate_Determined_Targets_(Correctly_Classified_Dataset).ipynb)
+
+#### <b>Targeted Boundary Attack for CelebA Identity Classification Using PyTorch Foolbox with Determined Targets (Correctly Classified Dataset)</b>
+
+* [Basic attack source code](Targeted_Boundary_Attack_for_CelebA_Identity_Classification_Using_PyTorch_Foolbox_with_Determined_Targets_(Correctly_Classified_Dataset).ipynb)
+
+#### <b>Targeted HopSkipJump Attack for CelebA Identity Classification Using PyTorch Foolbox with Determined Targets (Correctly Classified Dataset)</b>
+
+* [Basic attack source code](Targeted_HopSkipJump_Attack_for_CelebA_Identity_Classification_Using_PyTorch_Foolbox_with_Determined_Targets_(Correctly_Classified_Dataset).ipynb)
